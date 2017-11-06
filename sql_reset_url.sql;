@@ -1,0 +1,5 @@
+delete from external_view.url;
+insert into external_view.url (url) values ('telnet://192.168.200.78:50001');
+
+
+insert into external_view.url (url) values ('telnet://192.168.200.176:4567');
